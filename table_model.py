@@ -128,9 +128,9 @@ class ModTableModel(QAbstractTableModel):
         if col == "dependencies":
             return self._deps_label(m.dependencies)
         if col == "on_client":
-            return "Да" if m.present_on_client else "None"
+            return "Yes" if m.present_on_client else "No"
         if col == "on_server":
-            return "Да" if m.present_on_server else "None"
+            return "Yes" if m.present_on_server else "No"
         return ""
 
     def _side_label(self, m: ModInfo):
