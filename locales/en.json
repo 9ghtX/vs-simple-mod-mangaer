@@ -1,0 +1,11 @@
+{
+  "name": "Title",
+  "modid": "Mod ID",
+  "author": "Author",
+  "version": "Version",
+  "game_version": "Game Version",
+  "tags_type": "Tags / Type",
+  "description": "Description",
+  "on_client": "Client",
+  "on_server": "Server"
+}

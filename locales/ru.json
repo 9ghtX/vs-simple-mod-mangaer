@@ -1,0 +1,11 @@
+﻿{
+  "name": "Название",
+  "modid": "ID мода",
+  "author": "Автор",
+  "version": "Версия",
+  "game_version": "Версия игры",
+  "tags_type": "Тэги / Тип",
+  "description": "Описание",
+  "on_client": "Клиент",
+  "on_server": "Сервер"
+}
